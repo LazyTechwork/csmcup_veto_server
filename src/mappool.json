@@ -1,0 +1,36 @@
+{
+  "maps": {
+    "dust2": {
+      "status": "free",
+      "team": null
+    },
+    "mirage": {
+      "status": "free",
+      "team": null
+    },
+    "inferno": {
+      "status": "free",
+      "team": null
+    },
+    "train": {
+      "status": "free",
+      "team": null
+    },
+    "nuke": {
+      "status": "free",
+      "team": null
+    },
+    "overpass": {
+      "status": "free",
+      "team": null
+    },
+    "vertigo": {
+      "status": "free",
+      "team": null
+    }
+  },
+  "teams": [
+    "StormSpirits",
+    "illusion"
+  ]
+}

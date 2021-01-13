@@ -1,0 +1,10 @@
+{
+  "name": "csmcup_veto_server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "proprietary",
+  "private": true,
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
